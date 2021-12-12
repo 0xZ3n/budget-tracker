@@ -16,6 +16,9 @@ THEN the deposits or expenses added while they were offline are added to their
 ## Deployed Application
 https://nameless-lowlands-31760.herokuapp.com/
 
+![Screenshot from 2021-12-12 09-21-48](https://user-images.githubusercontent.com/82175278/145716649-d189113c-a373-46ad-9c23-36fa688ad9e9.png)
+
+
 ### Contributor
 Ani is graciously assisting me in getting these started:
 https://github.com/anidino/Budget-Tracking
